@@ -1,0 +1,1 @@
+python get_tag_info.py -t tag_location.csv -i taginfo.json

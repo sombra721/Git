@@ -1,0 +1,2 @@
+python fix_file_dos_unix_format.py -i input.txt -o output.txt
+

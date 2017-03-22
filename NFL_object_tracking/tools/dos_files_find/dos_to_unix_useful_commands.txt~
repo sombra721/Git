@@ -1,0 +1,43 @@
+Usefull Unix commands
+
+//---------------------------------------------------------------------
+//Convert format
+//---------------------------------------------------------------------
+dos2unix myfile.txt
+dos2unix -b myfile.txt   //will create a backup .bak file
+dos2unix *.sh            //converts many files 
+
+//---------------------------------------------------------------------
+//View files in HEX
+//---------------------------------------------------------------------
+octal dump:
+od -xcb input_file_name | less
+
+//---------------------------------------------------------------------
+//Find Dos files in a Unix system
+//---------------------------------------------------------------------
+file *  // this command will provide file properties including DOS type.
+
+OR
+
+grep -IUrl $'\r' .
+
+  -U, --binary              do not strip CR characters at EOL (MSDOS)
+  -I                        equivalent to --binary-files=without-match
+  -R, -r, --recursive       equivalent to --directories=recurse
+  -l, --files-with-matches  print only names of FILEs containing matches
+  $'\r'						Words of the form $'string' are treated specially. The word expands 
+							to string, with backslash-escaped characters replaced as specified 
+							by the ANSI C standard.
+//--------------------------------------------------------------------- 
+// This below does not seem to works reliably
+//---------------------------------------------------------------------
+
+grep '\r\n' * -lR  //check files that has dos end of line \r\n
+grep '\r\n' * -R  //list all lines for files that has dos end of line \r\n
+
+//---------------------------------------------------------------------
+
+
+
+

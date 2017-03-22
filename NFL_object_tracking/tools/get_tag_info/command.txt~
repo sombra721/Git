@@ -1,0 +1,1 @@
+python get_tag_info.py -i input.txt -t 2011,2012 -o output_2011_2012.txt -s skip_output.txt
