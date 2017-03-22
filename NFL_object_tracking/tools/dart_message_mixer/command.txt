@@ -1,0 +1,5 @@
+python dart_message_mixer.py -i input -o output
+
+OR
+
+python dart_message_mixer.py -i input -m output.txt
