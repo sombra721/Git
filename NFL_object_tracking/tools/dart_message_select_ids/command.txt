@@ -1,0 +1,5 @@
+python dart_message_select_ids.py -i input.txt -t 2011,2012 -o output_2011_2012.txt -s skip_output.txt
+
+python dart_message_select_ids.py -i input.txt -t 2011,2012 -o output_2011_2012.txt -s skip_output.txt -b 1000.0 -e 1000.2
+
+python dart_message_select_ids.py -i input.txt -o output_2011_2012.txt -s skip_output.txt -b 1000.0 -e 1000.2
