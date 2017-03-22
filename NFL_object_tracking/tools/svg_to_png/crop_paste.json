@@ -1,0 +1,40 @@
+{
+	"crop":[
+		{"src":"svg_01_line.png","x":"1900","y":"1825","dx":"1350","dy":"175","out":"crop_01_line.png"},
+		{"src":"svg_08_lineRnd05.png","x":"1925","y":"1725","dx":"1300","dy":"325","out":"crop_08_lineRnd05.png"},
+		{"src":"svg_02_lineMP.png","x":"12700","y":"2125","dx":"2000","dy":"825","out":"crop_02_lineMP_pop.png"},
+		{"src":"svg_09_lineMPlarge.png","x":"12700","y":"2225","dx":"2300","dy":"1000","out":"crop_09_lineMPlarge.png"},
+		{"src":"svg_02_lineMP.png","x":"10450","y":"2450","dx":"750","dy":"200","out":"crop_02_lineMP_miss.png"},
+		{"src":"svg_03_diagonal.png","x":"1900","y":"8800","dx":"1275","dy":"800","out":"crop_03_diagonal.png"},
+		{"src":"svg_04_acceleration.png","x":"1800","y":"10050","dx":"1375","dy":"950","out":"crop_04_acceleration.png"},
+		{"src":"svg_05_circle.png","x":"3225","y":"2450","dx":"1925","dy":"600","out":"crop_05_circle.png"},
+		{"src":"svg_06_polynomial.png","x":"12000","y":"10000","dx":"1500","dy":"1000","out":"crop_06_polynomial.png"},
+		{"src":"svg_07_actual.png","x":"3075","y":"3925","dx":"2150","dy":"1400","out":"crop_07_actual_st.png"},
+		{"src":"svg_07_actual.png","x":"2600","y":"0","dx":"1475","dy":"2700","out":"crop_07_actual_pop.png"},
+		{"src":"svg_10_lineMPoffset.png","x":"8600","y":"2400","dx":"1925","dy":"1525","out":"crop_10_lineMPoffset_jump.png"},
+		{"src":"svg_10_lineMPoffset.png","x":"19200","y":"3725","dx":"800","dy":"775","out":"crop_10_lineMPoffset_tight.png"} 
+		],
+        "font":"/usr/share/fonts/dejavu/DejaVuSansMono-Bold.ttf",
+        "paste_base":"base02_3500x18500.png",
+        "paste_output":"tmp.png",
+        "paste_top_margin":300,
+        "paste_x":100,
+        "paste_y":300,
+        "paste_margin_line_text":50,
+        "paste_margin_text_image":100,
+        "paste":[
+                 {"src":"crop_01_line.png","text":"01_line.png: good\nThis is good"},
+                 {"src":"crop_08_lineRnd05.png","text":"08_lineRnd05.png: good\nThis is good"},
+                 {"src":"crop_02_lineMP_pop.png","text":"02_lineMP_pop.png: good\nThis is good"},
+                 {"src":"crop_09_lineMPlarge.png","text":"09_lineMPlarge.png: good\nThis is good"},
+                 {"src":"crop_02_lineMP_miss.png","text":"02_lineMP_miss.png: good\nThis is good"},
+                 {"src":"crop_03_diagonal.png","text":"03_diagonal.png: good\nThis is good"},
+                 {"src":"crop_04_acceleration.png","text":"04_acceleration.png: good\nThis is good"},
+                 {"src":"crop_05_circle.png","text":"05_circle.png: good\nThis is good"},
+                 {"src":"crop_06_polynomial.png","text":"06_polynomial.png: good\nThis is good"},
+                 {"src":"crop_07_actual_st.png","text":"07_actual_st.png: good\nThis is good"},
+                 {"src":"crop_07_actual_pop.png","text":"07_actual_pop.png: good\nThis is good"},
+                 {"src":"crop_10_lineMPoffset_jump.png","text":"10_lineMPoffset_jump.png: good\nThis is good"},
+                 {"src":"crop_10_lineMPoffset_tight.png","text":"10_lineMPoffset_tight.png: good\nThis is good"}
+                ]
+}

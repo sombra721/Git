@@ -1,0 +1,1217 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="20480" height="11520" >
+<rect x="1280" y="1280" width="19200" height="10240" style="fill:rgb(255,255,255);stroke-width:9.6;stroke:rgb(0,255,0);" />
+<line x1="3200" y1="11520" x2="3200" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="5120" y1="11520" x2="5120" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="7040" y1="11520" x2="7040" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="8960" y1="11520" x2="8960" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="10880" y1="11520" x2="10880" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="12800" y1="11520" x2="12800" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="14720" y1="11520" x2="14720" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="16640" y1="11520" x2="16640" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="18560" y1="11520" x2="18560" y2="1280" style=" stroke:#00FF00;"/>
+<line x1="2568.0" y1="12480.0" x2="2568.0" y2="6720.0" style=" stroke:rgb(255,0,0); stroke-width:3.2" />
+<line x1="2576.0" y1="9560.0" x2="2576.0" y2="3416.0" style=" stroke:rgb(0,255,0); stroke-width:3.2" />
+<line x1="2584.0" y1="9520.0" x2="2584.0" y2="7216.0" style=" stroke:rgb(0,0,255); stroke-width:3.2" />
+<line x1="2592.0" y1="9480.0" x2="2592.0" y2="9096.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+ 
+<rect x="1895.99998779" y="10843.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<text x="1895.99998779" y="10835.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.2</text>
+<rect x="1940.79997558" y="10907.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<text x="1940.79997558" y="10899.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.3</text>
+<rect x="1902.40001221" y="10836.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1900.79998779" y1="10848.0" x2="1907.20001221" y2="10841.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1902.40001221" y="10828.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.4</text>
+<rect x="1947.2" y="10900.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1945.59997558" y1="10912.0" x2="1952.0" y2="10905.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1947.2" y="10892.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.5</text>
+<rect x="1908.79997559" y="10830.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1907.20001221" y1="10841.5999756" x2="1913.59997559" y2="10835.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1908.79997559" y="10822.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.6</text>
+<rect x="1953.60002442" y="10894.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1952.0" y1="10905.5999756" x2="1958.40002442" y2="10899.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1953.60002442" y="10886.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.7</text>
+<rect x="1921.60002442" y="10823.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1913.59997559" y1="10835.2000122" x2="1926.40002442" y2="10828.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1921.60002442" y="10815.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.8</text>
+<rect x="1966.4000122" y="10887.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1958.40002442" y1="10899.2000122" x2="1971.2000122" y2="10892.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1966.4000122" y="10879.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">000.9</text>
+<rect x="1940.79997558" y="10817.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1926.40002442" y1="10828.7999878" x2="1945.59997558" y2="10822.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1940.79997558" y="10809.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.0</text>
+<rect x="1985.60002442" y="10875.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1971.2000122" y1="10892.7999878" x2="1990.40002442" y2="10880.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1985.60002442" y="10867.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.1</text>
+<rect x="1959.9999878" y="10804.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1945.59997558" y1="10822.4000244" x2="1964.7999878" y2="10809.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1959.9999878" y="10796.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.2</text>
+<rect x="2004.79997558" y="10868.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1990.40002442" y1="10880.0" x2="2009.59997558" y2="10873.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2004.79997558" y="10860.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.3</text>
+<rect x="1979.2" y="10791.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1964.7999878" y1="10809.5999756" x2="1984.0" y2="10796.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="1979.2" y="10783.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.4</text>
+<rect x="2030.4000122" y="10855.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2009.59997558" y1="10873.5999756" x2="2035.2000122" y2="10860.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2030.4000122" y="10847.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.5</text>
+<rect x="2004.79997558" y="10779.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="1984.0" y1="10796.7999878" x2="2009.59997558" y2="10784.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2004.79997558" y="10771.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.6</text>
+<rect x="2055.9999878" y="10836.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2035.2000122" y1="10860.7999878" x2="2060.7999878" y2="10841.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2055.9999878" y="10828.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.7</text>
+<rect x="2036.79997558" y="10759.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2009.59997558" y1="10784.0" x2="2041.59997558" y2="10764.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2036.79997558" y="10751.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.8</text>
+<rect x="2087.9999878" y="10817.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2060.7999878" y1="10841.5999756" x2="2092.7999878" y2="10822.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2087.9999878" y="10809.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">001.9</text>
+<rect x="2068.79997558" y="10747.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2041.59997558" y1="10764.7999878" x2="2073.59997558" y2="10752.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2068.79997558" y="10739.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.0</text>
+<rect x="2119.9999878" y="10798.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2092.7999878" y1="10822.4000244" x2="2124.7999878" y2="10803.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2119.9999878" y="10790.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.1</text>
+<rect x="2100.79997558" y="10721.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2073.59997558" y1="10752.0" x2="2105.59997558" y2="10726.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2100.79997558" y="10713.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.2</text>
+<rect x="2158.4000122" y="10779.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2124.7999878" y1="10803.2000122" x2="2163.2000122" y2="10784.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2158.4000122" y="10771.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.3</text>
+<rect x="2139.2" y="10702.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2105.59997558" y1="10726.4000244" x2="2144.0" y2="10707.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2139.2" y="10694.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.4</text>
+<rect x="2196.79997558" y="10753.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2163.2000122" y1="10784.0" x2="2201.59997558" y2="10758.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2196.79997558" y="10745.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.5</text>
+<rect x="2183.9999878" y="10676.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2144.0" y1="10707.2000122" x2="2188.7999878" y2="10681.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2183.9999878" y="10668.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.6</text>
+<rect x="2241.60002442" y="10727.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2201.59997558" y1="10758.4000244" x2="2246.40002442" y2="10732.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2241.60002442" y="10719.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.7</text>
+<rect x="2228.79997558" y="10651.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2188.7999878" y1="10681.5999756" x2="2233.59997558" y2="10656.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2228.79997558" y="10643.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.8</text>
+<rect x="2286.4000122" y="10702.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2246.40002442" y1="10732.7999878" x2="2291.2000122" y2="10707.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2286.4000122" y="10694.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">002.9</text>
+<rect x="2273.60002442" y="10625.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2233.59997558" y1="10656.0" x2="2278.40002442" y2="10630.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2273.60002442" y="10617.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.0</text>
+<rect x="2337.60002442" y="10676.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2291.2000122" y1="10707.2000122" x2="2342.40002442" y2="10681.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2337.60002442" y="10668.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.1</text>
+<rect x="2324.79997558" y="10593.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2278.40002442" y1="10630.4000244" x2="2329.59997558" y2="10598.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2324.79997558" y="10585.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.2</text>
+<rect x="2395.2" y="10644.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2342.40002442" y1="10681.5999756" x2="2400.0" y2="10649.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2395.2" y="10636.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.3</text>
+<rect x="2382.39995117" y="10561.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2329.59997558" y1="10598.4000244" x2="2387.19995117" y2="10566.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2382.39995117" y="10553.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.4</text>
+<rect x="2446.39995117" y="10612.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2400.0" y1="10649.5999756" x2="2451.19995117" y2="10617.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2446.39995117" y="10604.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.5</text>
+<rect x="2440.00004883" y="10529.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2387.19995117" y1="10566.4000244" x2="2444.80004883" y2="10534.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2440.00004883" y="10521.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.6</text>
+<rect x="2510.39995117" y="10574.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2451.19995117" y1="10617.5999756" x2="2515.19995117" y2="10579.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2510.39995117" y="10566.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.7</text>
+<rect x="2504.00004883" y="10491.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2444.80004883" y1="10534.4000244" x2="2508.80004883" y2="10496.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2504.00004883" y="10483.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.8</text>
+<rect x="2574.39995117" y="10542.4000122" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2515.19995117" y1="10579.2000122" x2="2579.19995117" y2="10547.2000122" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2574.39995117" y="10534.4000122" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">003.9</text>
+<rect x="2568.00004883" y="10452.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2508.80004883" y1="10496.0" x2="2572.80004883" y2="10457.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2568.00004883" y="10444.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.0</text>
+<rect x="2638.39995117" y="10503.9999878" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2579.19995117" y1="10547.2000122" x2="2643.19995117" y2="10508.7999878" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2638.39995117" y="10495.9999878" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.1</text>
+<rect x="2638.39995117" y="10414.3999512" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2572.80004883" y1="10457.5999756" x2="2643.19995117" y2="10419.1999512" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2638.39995117" y="10406.3999512" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.2</text>
+<rect x="2708.79997558" y="10459.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2643.19995117" y1="10508.7999878" x2="2713.59997558" y2="10464.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2708.79997558" y="10451.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.3</text>
+<rect x="2708.79997558" y="10376.0000488" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2643.19995117" y1="10419.1999512" x2="2713.59997558" y2="10380.8000488" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2708.79997558" y="10368.0000488" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.4</text>
+<rect x="2785.60002442" y="10420.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2713.59997558" y1="10464.0" x2="2790.40002442" y2="10425.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2785.60002442" y="10412.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.5</text>
+<rect x="2785.60002442" y="10331.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2713.59997558" y1="10380.8000488" x2="2790.40002442" y2="10336.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2785.60002442" y="10323.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.6</text>
+<rect x="2862.39995117" y="10376.0000488" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2790.40002442" y1="10425.5999756" x2="2867.19995117" y2="10380.8000488" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2862.39995117" y="10368.0000488" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.7</text>
+<rect x="2862.39995117" y="10286.3999512" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2790.40002442" y1="10336.0" x2="2867.19995117" y2="10291.1999512" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2862.39995117" y="10278.3999512" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.8</text>
+<rect x="2939.2" y="10324.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2867.19995117" y1="10380.8000488" x2="2944.0" y2="10329.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2939.2" y="10316.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">004.9</text>
+<rect x="2945.60002442" y="10235.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2867.19995117" y1="10291.1999512" x2="2950.40002442" y2="10240.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="2945.60002442" y="10227.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.0</text>
+<rect x="3022.39995117" y="10280.0000488" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2944.0" y1="10329.5999756" x2="3027.19995117" y2="10284.8000488" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3022.39995117" y="10272.0000488" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.1</text>
+<rect x="3028.79997558" y="10190.3999512" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="2950.40002442" y1="10240.0" x2="3033.59997558" y2="10195.1999512" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3028.79997558" y="10182.3999512" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.2</text>
+<rect x="3112.00004883" y="10228.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3027.19995117" y1="10284.8000488" x2="3116.80004883" y2="10233.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3112.00004883" y="10220.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.3</text>
+<rect x="3118.39995117" y="10139.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3033.59997558" y1="10195.1999512" x2="3123.19995117" y2="10144.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3118.39995117" y="10131.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.4</text>
+<rect x="3201.60002442" y="10177.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3116.80004883" y1="10233.5999756" x2="3206.40002442" y2="10182.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3201.60002442" y="10169.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.5</text>
+<rect x="3208.00004883" y="10081.6000244" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3123.19995117" y1="10144.0" x2="3212.80004883" y2="10086.4000244" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3208.00004883" y="10073.6000244" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.6</text>
+<rect x="3297.60002442" y="10126.3999512" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3206.40002442" y1="10182.4000244" x2="3302.40002442" y2="10131.1999512" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3297.60002442" y="10118.3999512" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.7</text>
+<rect x="3304.00004883" y="10030.3999512" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3212.80004883" y1="10086.4000244" x2="3308.80004883" y2="10035.1999512" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3304.00004883" y="10022.3999512" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.8</text>
+<rect x="3393.59990234" y="10068.7999756" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3302.40002442" y1="10131.1999512" x2="3398.39990234" y2="10073.5999756" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3393.59990234" y="10060.7999756" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">005.9</text>
+<rect x="3400.00004883" y="9972.79997558" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3308.80004883" y1="10035.1999512" x2="3404.80004883" y2="9977.59997558" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3400.00004883" y="9964.79997558" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.0</text>
+<rect x="3489.59990234" y="10011.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3398.39990234" y1="10073.5999756" x2="3494.39990234" y2="10016.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3489.59990234" y="10003.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.1</text>
+<rect x="3502.39995117" y="9915.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3404.80004883" y1="9977.59997558" x2="3507.19995117" y2="9920.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3502.39995117" y="9907.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.2</text>
+<rect x="3592.00004883" y="9947.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3494.39990234" y1="10016.0" x2="3596.80004883" y2="9952.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3592.00004883" y="9939.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.3</text>
+<rect x="3611.2" y="9851.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3507.19995117" y1="9920.0" x2="3616.0" y2="9856.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3611.2" y="9843.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.4</text>
+<rect x="3700.80009766" y="9889.60002442" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3596.80004883" y1="9952.0" x2="3705.60009766" y2="9894.40002442" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3700.80009766" y="9881.60002442" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.5</text>
+<rect x="3720.00004883" y="9787.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3616.0" y1="9856.0" x2="3724.80004883" y2="9792.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3720.00004883" y="9779.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.6</text>
+<rect x="3809.59990234" y="9825.60002442" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3705.60009766" y1="9894.40002442" x2="3814.39990234" y2="9830.40002442" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3809.59990234" y="9817.60002442" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.7</text>
+<rect x="3828.80009766" y="9723.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3724.80004883" y1="9792.0" x2="3833.60009766" y2="9728.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3828.80009766" y="9715.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.8</text>
+<rect x="3924.80009766" y="9761.60002442" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3814.39990234" y1="9830.40002442" x2="3929.60009766" y2="9766.40002442" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3924.80009766" y="9753.60002442" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">006.9</text>
+<rect x="3944.00004883" y="9659.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3833.60009766" y1="9728.0" x2="3948.80004883" y2="9664.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="3944.00004883" y="9651.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.0</text>
+<rect x="4040.00004883" y="9691.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3929.60009766" y1="9766.40002442" x2="4044.80004883" y2="9696.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4040.00004883" y="9683.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.1</text>
+<rect x="4065.59990234" y="9588.79997558" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="3948.80004883" y1="9664.0" x2="4070.39990234" y2="9593.59997558" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4065.59990234" y="9580.79997558" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.2</text>
+<rect x="4161.59990234" y="9620.79997558" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4044.80004883" y1="9696.0" x2="4166.39990234" y2="9625.59997558" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4161.59990234" y="9612.79997558" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.3</text>
+<rect x="4187.2" y="9518.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4070.39990234" y1="9593.59997558" x2="4192.0" y2="9523.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4187.2" y="9510.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.4</text>
+<rect x="4283.2" y="9550.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4166.39990234" y1="9625.59997558" x2="4288.0" y2="9555.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4283.2" y="9542.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.5</text>
+<rect x="4308.80009766" y="9448.00004883" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4192.0" y1="9523.19995117" x2="4313.60009766" y2="9452.80004883" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4308.80009766" y="9440.00004883" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.6</text>
+<rect x="4411.2" y="9480.00004883" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4288.0" y1="9555.19995117" x2="4416.0" y2="9484.80004883" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4411.2" y="9472.00004883" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.7</text>
+<rect x="4436.80009766" y="9371.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4313.60009766" y1="9452.80004883" x2="4441.60009766" y2="9376.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4436.80009766" y="9363.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.8</text>
+<rect x="4539.2" y="9403.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4416.0" y1="9484.80004883" x2="4544.0" y2="9408.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4539.2" y="9395.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">007.9</text>
+<rect x="4571.2" y="9300.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4441.60009766" y1="9376.0" x2="4576.0" y2="9305.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4571.2" y="9292.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.0</text>
+<rect x="4673.59990234" y="9326.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4544.0" y1="9408.0" x2="4678.39990234" y2="9331.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4673.59990234" y="9318.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.1</text>
+<rect x="4705.59990234" y="9217.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4576.0" y1="9305.60009766" x2="4710.39990234" y2="9222.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4705.59990234" y="9209.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.2</text>
+<rect x="4814.39995117" y="9249.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4678.39990234" y1="9331.19995117" x2="4819.19995117" y2="9254.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4814.39995117" y="9241.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.3</text>
+<rect x="4840.00004883" y="9140.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4710.39990234" y1="9222.39990234" x2="4844.80004883" y2="9145.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4840.00004883" y="9132.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.4</text>
+<rect x="4948.80009766" y="9166.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4819.19995117" y1="9254.39990234" x2="4953.60009766" y2="9171.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4948.80009766" y="9158.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.5</text>
+<rect x="4987.2" y="9057.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4844.80004883" y1="9145.60009766" x2="4992.0" y2="9062.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="4987.2" y="9049.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.6</text>
+<rect x="5096.00004883" y="9083.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4953.60009766" y1="9171.19995117" x2="5100.80004883" y2="9088.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5096.00004883" y="9075.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.7</text>
+<rect x="5128.00004883" y="8974.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="4992.0" y1="9062.39990234" x2="5132.80004883" y2="8979.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5128.00004883" y="8966.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.8</text>
+<rect x="5243.2" y="9000.00004883" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5100.80004883" y1="9088.0" x2="5248.0" y2="9004.80004883" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5243.2" y="8992.00004883" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">008.9</text>
+<rect x="5275.2" y="8891.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5132.80004883" y1="8979.19995117" x2="5280.0" y2="8896.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5275.2" y="8883.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.0</text>
+<rect x="5390.40019532" y="8910.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5248.0" y1="9004.80004883" x2="5395.20019532" y2="8915.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5390.40019532" y="8902.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.1</text>
+<rect x="5428.80009766" y="8801.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5280.0" y1="8896.0" x2="5433.60009766" y2="8806.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5428.80009766" y="8793.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.2</text>
+<rect x="5543.99980468" y="8820.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5395.20019532" y1="8915.19995117" x2="5548.79980468" y2="8825.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5543.99980468" y="8812.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.3</text>
+<rect x="5582.40019532" y="8712.00004883" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5433.60009766" y1="8806.39990234" x2="5587.20019532" y2="8716.80004883" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5582.40019532" y="8704.00004883" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.4</text>
+<rect x="5703.99980468" y="8731.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5548.79980468" y1="8825.60009766" x2="5708.79980468" y2="8736.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5703.99980468" y="8723.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.5</text>
+<rect x="5742.40019532" y="8622.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5587.20019532" y1="8716.80004883" x2="5747.20019532" y2="8627.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5742.40019532" y="8614.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.6</text>
+<rect x="5863.99980468" y="8641.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5708.79980468" y1="8736.0" x2="5868.79980468" y2="8646.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5863.99980468" y="8633.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.7</text>
+<rect x="5902.40019532" y="8526.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5747.20019532" y1="8627.19995117" x2="5907.20019532" y2="8531.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="5902.40019532" y="8518.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.8</text>
+<rect x="6023.99980468" y="8545.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5868.79980468" y1="8646.39990234" x2="6028.79980468" y2="8550.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6023.99980468" y="8537.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">009.9</text>
+<rect x="6068.80009766" y="8430.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="5907.20019532" y1="8531.19995117" x2="6073.60009766" y2="8435.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6068.80009766" y="8422.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.0</text>
+<rect x="6190.40019532" y="8449.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6028.79980468" y1="8550.39990234" x2="6195.20019532" y2="8454.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6190.40019532" y="8441.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.1</text>
+<rect x="6235.2" y="8334.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6073.60009766" y1="8435.19995117" x2="6240.0" y2="8339.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6235.2" y="8326.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.2</text>
+<rect x="6363.2" y="8353.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6195.20019532" y1="8454.39990234" x2="6368.0" y2="8358.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6363.2" y="8345.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.3</text>
+<rect x="6407.99980468" y="8238.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6240.0" y1="8339.19995117" x2="6412.79980468" y2="8243.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6407.99980468" y="8230.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.4</text>
+<rect x="6535.99980468" y="8251.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6368.0" y1="8358.39990234" x2="6540.79980468" y2="8256.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6535.99980468" y="8243.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.5</text>
+<rect x="6587.2" y="8136.00004883" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6412.79980468" y1="8243.19995117" x2="6592.0" y2="8140.80004883" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6587.2" y="8128.00004883" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.6</text>
+<rect x="6708.80009766" y="8148.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6540.79980468" y1="8256.0" x2="6713.60009766" y2="8153.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6708.80009766" y="8140.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.7</text>
+<rect x="6759.99980468" y="8033.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6592.0" y1="8140.80004883" x2="6764.79980468" y2="8038.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6759.99980468" y="8025.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.8</text>
+<rect x="6894.40019532" y="8046.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6713.60009766" y1="8153.60009766" x2="6899.20019532" y2="8051.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6894.40019532" y="8038.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">010.9</text>
+<rect x="6945.59990234" y="7924.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6764.79980468" y1="8038.39990234" x2="6950.39990234" y2="7929.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="6945.59990234" y="7916.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.0</text>
+<rect x="7073.59990234" y="7937.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6899.20019532" y1="8051.19995117" x2="7078.39990234" y2="7942.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7073.59990234" y="7929.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.1</text>
+<rect x="7131.2" y="7822.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="6950.39990234" y1="7929.60009766" x2="7136.0" y2="7827.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7131.2" y="7814.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.2</text>
+<rect x="7259.2" y="7835.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7078.39990234" y1="7942.39990234" x2="7264.0" y2="7840.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7259.2" y="7827.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.3</text>
+<rect x="7316.80009766" y="7713.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7136.0" y1="7827.19995117" x2="7321.60009766" y2="7718.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7316.80009766" y="7705.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.4</text>
+<rect x="7451.2" y="7726.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7264.0" y1="7840.0" x2="7456.0" y2="7731.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7451.2" y="7718.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.5</text>
+<rect x="7508.80009766" y="7598.39995117" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7321.60009766" y1="7718.39990234" x2="7513.60009766" y2="7603.19995117" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7508.80009766" y="7590.39995117" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.6</text>
+<rect x="7643.2" y="7611.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7456.0" y1="7731.19995117" x2="7648.0" y2="7616.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7643.2" y="7603.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.7</text>
+<rect x="7700.80009766" y="7489.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7513.60009766" y1="7603.19995117" x2="7705.60009766" y2="7494.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7700.80009766" y="7481.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.8</text>
+<rect x="7841.59990234" y="7496.00004883" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7648.0" y1="7616.0" x2="7846.39990234" y2="7500.80004883" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7841.59990234" y="7488.00004883" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">011.9</text>
+<rect x="7899.2" y="7374.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7705.60009766" y1="7494.39990234" x2="7904.0" y2="7379.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="7899.2" y="7366.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.0</text>
+<rect x="8039.99980467" y="7380.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7846.39990234" y1="7500.80004883" x2="8044.79980467" y2="7385.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8039.99980467" y="7372.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.1</text>
+<rect x="8103.99980467" y="7259.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="7904.0" y1="7379.20019532" x2="8108.79980467" y2="7264.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8103.99980467" y="7251.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.2</text>
+<rect x="8244.80009766" y="7265.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8044.79980467" y1="7385.60009766" x2="8249.60009766" y2="7270.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8244.80009766" y="7257.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.3</text>
+<rect x="8308.80009766" y="7137.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8108.79980467" y1="7264.0" x2="8313.60009766" y2="7142.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8308.80009766" y="7129.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.4</text>
+<rect x="8449.59990234" y="7143.99980468" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8249.60009766" y1="7270.39990234" x2="8454.39990234" y2="7148.79980468" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8449.59990234" y="7135.99980468" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.5</text>
+<rect x="8513.59990234" y="7022.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8313.60009766" y1="7142.39990234" x2="8518.39990234" y2="7027.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8513.59990234" y="7014.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.6</text>
+<rect x="8660.80009766" y="7022.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8454.39990234" y1="7148.79980468" x2="8665.60009766" y2="7027.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8660.80009766" y="7014.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.7</text>
+<rect x="8724.80009766" y="6894.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8518.39990234" y1="7027.20019532" x2="8729.60009766" y2="6899.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8724.80009766" y="6886.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.8</text>
+<rect x="8871.99980467" y="6900.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8665.60009766" y1="7027.20019532" x2="8876.79980467" y2="6905.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8871.99980467" y="6892.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">012.9</text>
+<rect x="8942.40019533" y="6772.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8729.60009766" y1="6899.20019532" x2="8947.20019533" y2="6777.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="8942.40019533" y="6764.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.0</text>
+<rect x="9089.59990234" y="6779.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8876.79980467" y1="6905.60009766" x2="9094.39990234" y2="6784.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9089.59990234" y="6771.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.1</text>
+<rect x="9159.99980467" y="6644.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="8947.20019533" y1="6777.60009766" x2="9164.79980467" y2="6649.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9159.99980467" y="6636.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.2</text>
+<rect x="9307.2" y="6651.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9094.39990234" y1="6784.0" x2="9312.0" y2="6656.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9307.2" y="6643.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.3</text>
+<rect x="9383.99980467" y="6516.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9164.79980467" y1="6649.60009766" x2="9388.79980467" y2="6521.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9383.99980467" y="6508.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.4</text>
+<rect x="9531.2" y="6523.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9312.0" y1="6656.0" x2="9536.0" y2="6528.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9531.2" y="6515.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.5</text>
+<rect x="9607.99980467" y="6388.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9388.79980467" y1="6521.60009766" x2="9612.79980467" y2="6393.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9607.99980467" y="6380.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.6</text>
+<rect x="9761.60039066" y="6388.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9536.0" y1="6528.0" x2="9766.40039066" y2="6393.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9761.60039066" y="6380.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.7</text>
+<rect x="9838.40019533" y="6260.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9612.79980467" y1="6393.60009766" x2="9843.20019533" y2="6265.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9838.40019533" y="6252.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.8</text>
+<rect x="9991.99980467" y="6260.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9766.40039066" y1="6393.60009766" x2="9996.79980467" y2="6265.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="9991.99980467" y="6252.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">013.9</text>
+<rect x="10068.7996093" y="6126.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9843.20019533" y1="6265.60009766" x2="10073.5996093" y2="6131.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10068.7996093" y="6118.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.0</text>
+<rect x="10222.4001953" y="6126.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="9996.79980467" y1="6265.60009766" x2="10227.2001953" y2="6131.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10222.4001953" y="6118.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.1</text>
+<rect x="10299.2" y="5991.99980468" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10073.5996093" y1="6131.20019532" x2="10304.0" y2="5996.79980468" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10299.2" y="5983.99980468" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.2</text>
+<rect x="10459.2" y="5985.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10227.2001953" y1="6131.20019532" x2="10464.0" y2="5990.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10459.2" y="5977.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.3</text>
+<rect x="10542.4001953" y="5851.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10304.0" y1="5996.79980468" x2="10547.2001953" y2="5856.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10542.4001953" y="5843.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.4</text>
+<rect x="10695.9998047" y="5851.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10464.0" y1="5990.39990234" x2="10700.7998047" y2="5856.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10695.9998047" y="5843.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.5</text>
+<rect x="10779.2" y="5710.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10547.2001953" y1="5856.0" x2="10784.0" y2="5715.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10779.2" y="5702.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.6</text>
+<rect x="10939.2" y="5710.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10700.7998047" y1="5856.0" x2="10944.0" y2="5715.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="10939.2" y="5702.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.7</text>
+<rect x="11028.7996093" y="5569.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10784.0" y1="5715.20019532" x2="11033.5996093" y2="5574.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11028.7996093" y="5561.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.8</text>
+<rect x="11188.7996093" y="5563.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="10944.0" y1="5715.20019532" x2="11193.5996093" y2="5568.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11188.7996093" y="5555.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">014.9</text>
+<rect x="11271.9998047" y="5428.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11033.5996093" y1="5574.39990234" x2="11276.7998047" y2="5433.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11271.9998047" y="5420.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.0</text>
+<rect x="11438.4001953" y="5422.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11193.5996093" y1="5568.0" x2="11443.2001953" y2="5427.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11438.4001953" y="5414.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.1</text>
+<rect x="11527.9998047" y="5281.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11276.7998047" y1="5433.60009766" x2="11532.7998047" y2="5286.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11527.9998047" y="5273.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.2</text>
+<rect x="11687.9998047" y="5275.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11443.2001953" y1="5427.20019532" x2="11692.7998047" y2="5280.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11687.9998047" y="5267.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.3</text>
+<rect x="11777.6003907" y="5134.40019532" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11532.7998047" y1="5286.39990234" x2="11782.4003907" y2="5139.20019532" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11777.6003907" y="5126.40019532" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.4</text>
+<rect x="11943.9998047" y="5127.99980468" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11692.7998047" y1="5280.0" x2="11948.7998047" y2="5132.79980468" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="11943.9998047" y="5119.99980468" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.5</text>
+<rect x="12039.9998047" y="4987.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11782.4003907" y1="5139.20019532" x2="12044.7998047" y2="4992.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12039.9998047" y="4979.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.6</text>
+<rect x="12206.4001953" y="4980.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="11948.7998047" y1="5132.79980468" x2="12211.2001953" y2="4985.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12206.4001953" y="4972.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.7</text>
+<rect x="12302.4001953" y="4833.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12044.7998047" y1="4992.0" x2="12307.2001953" y2="4838.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12302.4001953" y="4825.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.8</text>
+<rect x="12468.7996093" y="4827.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12211.2001953" y1="4985.60009766" x2="12473.5996093" y2="4832.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12468.7996093" y="4819.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">015.9</text>
+<rect x="12564.7996093" y="4679.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12307.2001953" y1="4838.39990234" x2="12569.5996093" y2="4684.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12564.7996093" y="4671.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.0</text>
+<rect x="12737.6003907" y="4673.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12473.5996093" y1="4832.0" x2="12742.4003907" y2="4678.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12737.6003907" y="4665.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.1</text>
+<rect x="12833.6003907" y="4526.40019533" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12569.5996093" y1="4684.79980467" x2="12838.4003907" y2="4531.20019533" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="12833.6003907" y="4518.40019533" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.2</text>
+<rect x="13006.4001953" y="4513.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12742.4003907" y1="4678.39990234" x2="13011.2001953" y2="4518.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13006.4001953" y="4505.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.3</text>
+<rect x="13102.4001953" y="4372.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="12838.4003907" y1="4531.20019533" x2="13107.2001953" y2="4377.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13102.4001953" y="4364.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.4</text>
+<rect x="13281.6003907" y="4359.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13011.2001953" y1="4518.39990234" x2="13286.4003907" y2="4364.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13281.6003907" y="4351.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.5</text>
+<rect x="13377.6003907" y="4212.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13107.2001953" y1="4377.60009766" x2="13382.4003907" y2="4217.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13377.6003907" y="4204.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.6</text>
+<rect x="13556.7996093" y="4199.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13286.4003907" y1="4364.79980467" x2="13561.5996093" y2="4204.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13556.7996093" y="4191.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.7</text>
+<rect x="13659.2" y="4052.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13382.4003907" y1="4217.60009766" x2="13664.0" y2="4057.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13659.2" y="4044.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.8</text>
+<rect x="13831.9998047" y="4039.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13561.5996093" y1="4204.79980467" x2="13836.7998047" y2="4044.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13831.9998047" y="4031.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">016.9</text>
+<rect x="13940.7996093" y="3892.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13664.0" y1="4057.60009766" x2="13945.5996093" y2="3897.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="13940.7996093" y="3884.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.0</text>
+<rect x="14119.9998047" y="3873.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13836.7998047" y1="4044.79980467" x2="14124.7998047" y2="3878.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14119.9998047" y="3865.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.1</text>
+<rect x="14222.4001953" y="3726.40019533" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="13945.5996093" y1="3897.60009766" x2="14227.2001953" y2="3731.20019533" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14222.4001953" y="3718.40019533" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.2</text>
+<rect x="14401.6003907" y="3707.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14124.7998047" y1="3878.39990234" x2="14406.4003907" y2="3712.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14401.6003907" y="3699.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.3</text>
+<rect x="14510.4001953" y="3559.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14227.2001953" y1="3731.20019533" x2="14515.2001953" y2="3564.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14510.4001953" y="3551.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.4</text>
+<rect x="14695.9998047" y="3540.80009766" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14406.4003907" y1="3712.0" x2="14700.7998047" y2="3545.60009766" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14695.9998047" y="3532.80009766" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.5</text>
+<rect x="14804.7996093" y="3393.59990234" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14515.2001953" y1="3564.79980467" x2="14809.5996093" y2="3398.39990234" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14804.7996093" y="3385.59990234" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.6</text>
+<rect x="14983.9998047" y="3374.40019533" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14700.7998047" y1="3545.60009766" x2="14988.7998047" y2="3379.20019533" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="14983.9998047" y="3366.40019533" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.7</text>
+<rect x="15099.2" y="3220.79960934" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14809.5996093" y1="3398.39990234" x2="15104.0" y2="3225.59960934" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="15099.2" y="3212.79960934" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.8</text>
+<rect x="15284.7996093" y="3201.60039066" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="14988.7998047" y1="3379.20019533" x2="15289.5996093" y2="3206.40039066" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="15284.7996093" y="3193.60039066" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">017.9</text>
+<rect x="15393.6003907" y="3047.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="15104.0" y1="3225.59960934" x2="15398.4003907" y2="3052.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="15393.6003907" y="3039.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.0</text>
+<rect x="15585.6003907" y="3028.79960934" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="15289.5996093" y1="3206.40039066" x2="15590.4003907" y2="3033.59960934" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="15585.6003907" y="3020.79960934" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.1</text>
+<rect x="15694.4001953" y="2875.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="15398.4003907" y1="3052.79980467" x2="15699.2001953" y2="2880.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="15694.4001953" y="2867.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.2</text>
+<rect x="15886.4001953" y="2855.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="15590.4003907" y1="3033.59960934" x2="15891.2001953" y2="2860.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="15886.4001953" y="2847.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.3</text>
+<rect x="16001.6003907" y="2695.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="15699.2001953" y1="2880.0" x2="16006.4003907" y2="2700.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16001.6003907" y="2687.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.4</text>
+<rect x="16193.6003907" y="2676.79960934" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="15891.2001953" y1="2860.79980467" x2="16198.4003907" y2="2681.59960934" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16193.6003907" y="2668.79960934" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.5</text>
+<rect x="16308.7996093" y="2523.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16006.4003907" y1="2700.79980467" x2="16313.5996093" y2="2528.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16308.7996093" y="2515.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.6</text>
+<rect x="16500.7996093" y="2497.60039066" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16198.4003907" y1="2681.59960934" x2="16505.5996093" y2="2502.40039066" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16500.7996093" y="2489.60039066" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.7</text>
+<rect x="16622.4001953" y="2343.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16313.5996093" y1="2528.0" x2="16627.2001953" y2="2348.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16622.4001953" y="2335.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.8</text>
+<rect x="16814.4001953" y="2318.40019533" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16505.5996093" y1="2502.40039066" x2="16819.2001953" y2="2323.20019533" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16814.4001953" y="2310.40019533" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">018.9</text>
+<rect x="16935.9998047" y="2158.40019533" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16627.2001953" y1="2348.79980467" x2="16940.7998047" y2="2163.20019533" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="16935.9998047" y="2150.40019533" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.0</text>
+<rect x="17127.9998047" y="2132.79960934" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16819.2001953" y1="2323.20019533" x2="17132.7998047" y2="2137.59960934" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="17127.9998047" y="2124.79960934" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.1</text>
+<rect x="17249.6003907" y="1979.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="16940.7998047" y1="2163.20019533" x2="17254.4003907" y2="1984.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="17249.6003907" y="1971.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.2</text>
+<rect x="17447.9998047" y="1947.2" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="17132.7998047" y1="2137.59960934" x2="17452.7998047" y2="1952.0" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="17447.9998047" y="1939.2" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.3</text>
+<rect x="17575.9998047" y="1793.60039066" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="17254.4003907" y1="1984.0" x2="17580.7998047" y2="1798.40039066" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="17575.9998047" y="1785.60039066" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.4</text>
+<rect x="17774.3992188" y="1761.60039066" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="17452.7998047" y1="1952.0" x2="17779.1992188" y2="1766.40039066" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="17774.3992188" y="1753.60039066" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.5</text>
+<rect x="17896.0007812" y="1601.60039066" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="17580.7998047" y1="1798.40039066" x2="17900.8007812" y2="1606.40039066" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="17896.0007812" y="1593.60039066" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.6</text>
+<rect x="18100.7996093" y="1575.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="17779.1992188" y1="1766.40039066" x2="18105.5996093" y2="1580.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="18100.7996093" y="1567.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.7</text>
+<rect x="18228.7996093" y="1415.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="17900.8007812" y1="1606.40039066" x2="18233.5996093" y2="1420.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="18228.7996093" y="1407.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.8</text>
+<rect x="18427.2" y="1383.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="18105.5996093" y1="1580.79980467" x2="18432.0" y2="1388.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="18427.2" y="1375.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">019.9</text>
+<rect x="18555.2" y="1223.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="18233.5996093" y1="1420.79980467" x2="18560.0" y2="1228.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="18555.2" y="1215.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">020.0</text>
+<rect x="18760.0007812" y="1191.99980467" width="9.6" height="9.6" style=" fill:rgb(0,0,0);" />
+<line x1="18432.0" y1="1388.79980467" x2="18764.8007812" y2="1196.79980467" style=" stroke:rgb(0,0,0); stroke-width:3.2" />
+<text x="18760.0007812" y="1183.99980467" style=" fill:rgb(127,127,127); stroke: none; font-size: 16.0px;">020.1</text>
+ 
+<rect x="1604.8" y="11211.2" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<text x="1604.8" y="11203.2" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.1</text>
+<rect x="1918.399936" y="10875.2" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1609.6" y1="11216.0" x2="1923.199936" y2="10880.0" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1918.399936" y="10867.2" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.3</text>
+<rect x="1921.599936" y="10872.0" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1923.199936" y1="10880.0" x2="1926.399936" y2="10876.8" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1921.599936" y="10864.0" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.4</text>
+<rect x="1924.8" y="10868.8" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1926.399936" y1="10876.8" x2="1929.6" y2="10873.6" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1924.8" y="10860.8" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.5</text>
+<rect x="1928.0" y="10865.599936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1929.6" y1="10873.6" x2="1932.8" y2="10870.399936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1928.0" y="10857.599936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.6</text>
+<rect x="1931.2" y="10862.4" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1932.8" y1="10870.399936" x2="1936.0" y2="10867.2" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1931.2" y="10854.4" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.7</text>
+<rect x="1937.6" y="10859.2" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1936.0" y1="10867.2" x2="1942.4" y2="10864.0" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1937.6" y="10851.2" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.8</text>
+<rect x="1944.0" y="10856.0" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1942.4" y1="10864.0" x2="1948.8" y2="10860.8" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1944.0" y="10848.0" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">000.9</text>
+<rect x="1953.599936" y="10852.800064" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1948.8" y1="10860.8" x2="1958.399936" y2="10857.600064" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1953.599936" y="10844.800064" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.0</text>
+<rect x="1963.2" y="10846.4" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1958.399936" y1="10857.600064" x2="1968.0" y2="10851.2" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1963.2" y="10838.4" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.1</text>
+<rect x="1972.800064" y="10840.0" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1968.0" y1="10851.2" x2="1977.600064" y2="10844.8" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1972.800064" y="10832.0" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.2</text>
+<rect x="1982.4" y="10836.8" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1977.600064" y1="10844.8" x2="1987.2" y2="10841.6" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1982.4" y="10828.8" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.3</text>
+<rect x="1992.0" y="10830.4" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1987.2" y1="10841.6" x2="1996.8" y2="10835.2" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="1992.0" y="10822.4" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.4</text>
+<rect x="2004.8" y="10824.0" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="1996.8" y1="10835.2" x2="2009.6" y2="10828.8" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2004.8" y="10816.0" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.5</text>
+<rect x="2017.599936" y="10817.6" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2009.6" y1="10828.8" x2="2022.399936" y2="10822.4" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2017.599936" y="10809.6" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.6</text>
+<rect x="2030.4" y="10808.0" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2022.399936" y1="10822.4" x2="2035.2" y2="10812.8" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2030.4" y="10800.0" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.7</text>
+<rect x="2046.4" y="10798.4" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2035.2" y1="10812.8" x2="2051.2" y2="10803.2" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2046.4" y="10790.4" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.8</text>
+<rect x="2062.4" y="10788.800064" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2051.2" y1="10803.2" x2="2067.2" y2="10793.600064" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2062.4" y="10780.800064" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">001.9</text>
+<rect x="2078.4" y="10782.4" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2067.2" y1="10793.600064" x2="2083.2" y2="10787.2" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2078.4" y="10774.4" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.0</text>
+<rect x="2094.4" y="10772.8" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2083.2" y1="10787.2" x2="2099.2" y2="10777.6" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2094.4" y="10764.8" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.1</text>
+<rect x="2110.4" y="10760.0" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2099.2" y1="10777.6" x2="2115.2" y2="10764.8" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2110.4" y="10752.0" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.2</text>
+<rect x="2129.59904" y="10749.864448" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2115.2" y1="10764.8" x2="2134.39904" y2="10754.664448" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2129.59904" y="10741.864448" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.3</text>
+<rect x="2148.918016" y="10739.994048" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2134.39904" y1="10754.664448" x2="2153.718016" y2="10744.794048" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2148.918016" y="10731.994048" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.4</text>
+<rect x="2168.465728" y="10727.822848" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2153.718016" y1="10744.794048" x2="2173.265728" y2="10732.622848" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2168.465728" y="10719.822848" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.5</text>
+<rect x="2190.112384" y="10715.456384" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2173.265728" y1="10732.622848" x2="2194.912384" y2="10720.256384" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2190.112384" y="10707.456384" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.6</text>
+<rect x="2211.961152" y="10702.51872" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2194.912384" y1="10720.256384" x2="2216.761152" y2="10707.31872" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2211.961152" y="10694.51872" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.7</text>
+<rect x="2234.876544" y="10689.520448" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2216.761152" y1="10707.31872" x2="2239.676544" y2="10694.320448" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2234.876544" y="10681.520448" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.8</text>
+<rect x="2257.685504" y="10676.405888" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2239.676544" y1="10694.320448" x2="2262.485504" y2="10681.205888" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2257.685504" y="10668.405888" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">002.9</text>
+<rect x="2280.838848" y="10663.272576" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2262.485504" y1="10681.205888" x2="2285.638848" y2="10668.072576" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2280.838848" y="10655.272576" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.0</text>
+<rect x="2306.029952" y="10650.210304" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2285.638848" y1="10668.072576" x2="2310.829952" y2="10655.010304" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2306.029952" y="10642.210304" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.1</text>
+<rect x="2331.114432" y="10634.884864" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2310.829952" y1="10655.010304" x2="2335.914432" y2="10639.684864" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2331.114432" y="10626.884864" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.2</text>
+<rect x="2359.355264" y="10619.866048" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2335.914432" y1="10639.684864" x2="2364.155264" y2="10624.666048" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2359.355264" y="10611.866048" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.3</text>
+<rect x="2387.40192" y="10603.698624" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2364.155264" y1="10624.666048" x2="2392.20192" y2="10608.498624" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2387.40192" y="10595.698624" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.4</text>
+<rect x="2414.637248" y="10587.613056" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2392.20192" y1="10608.498624" x2="2419.437248" y2="10592.413056" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2414.637248" y="10579.613056" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.5</text>
+<rect x="2443.952704" y="10571.228736" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2419.437248" y1="10592.413056" x2="2448.752704" y2="10576.028736" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2443.952704" y="10563.228736" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.6</text>
+<rect x="2474.702592" y="10552.566976" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2448.752704" y1="10576.028736" x2="2479.502592" y2="10557.366976" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2474.702592" y="10544.566976" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.7</text>
+<rect x="2506.487744" y="10533.98656" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2479.502592" y1="10557.366976" x2="2511.287744" y2="10538.78656" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2506.487744" y="10525.98656" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.8</text>
+<rect x="2538.776512" y="10516.586944" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2511.287744" y1="10538.78656" x2="2543.576512" y2="10521.386944" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2538.776512" y="10508.586944" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">003.9</text>
+<rect x="2571.337344" y="10497.20384" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2543.576512" y1="10521.386944" x2="2576.137344" y2="10502.00384" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2571.337344" y="10489.20384" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.0</text>
+<rect x="2603.95744" y="10478.4576" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2576.137344" y1="10502.00384" x2="2608.75744" y2="10483.2576" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2603.95744" y="10470.4576" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.1</text>
+<rect x="2638.789248" y="10458.705728" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2608.75744" y1="10483.2576" x2="2643.589248" y2="10463.505728" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2638.789248" y="10450.705728" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.2</text>
+<rect x="2673.541312" y="10437.18144" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2643.589248" y1="10463.505728" x2="2678.341312" y2="10441.98144" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2673.541312" y="10429.18144" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.3</text>
+<rect x="2709.263616" y="10417.68704" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2678.341312" y1="10441.98144" x2="2714.063616" y2="10422.48704" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2709.263616" y="10409.68704" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.4</text>
+<rect x="2746.967104" y="10397.148224" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2714.063616" y1="10422.48704" x2="2751.767104" y2="10401.948224" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2746.967104" y="10389.148224" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.5</text>
+<rect x="2784.985024" y="10375.560128" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2751.767104" y1="10401.948224" x2="2789.785024" y2="10380.360128" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2784.985024" y="10367.560128" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.6</text>
+<rect x="2823.90912" y="10353.63264" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2789.785024" y1="10380.360128" x2="2828.70912" y2="10358.43264" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2823.90912" y="10345.63264" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.7</text>
+<rect x="2862.656896" y="10331.20832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2828.70912" y1="10358.43264" x2="2867.456896" y2="10336.00832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2862.656896" y="10323.20832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.8</text>
+<rect x="2901.754176" y="10306.515456" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2867.456896" y1="10336.00832" x2="2906.554176" y2="10311.315456" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2901.754176" y="10298.515456" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">004.9</text>
+<rect x="2942.80288" y="10281.595968" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2906.554176" y1="10311.315456" x2="2947.60288" y2="10286.395968" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2942.80288" y="10273.595968" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.0</text>
+<rect x="2983.975616" y="10257.929728" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2947.60288" y1="10286.395968" x2="2988.775616" y2="10262.729728" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="2983.975616" y="10249.929728" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.1</text>
+<rect x="3025.984576" y="10234.130176" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="2988.775616" y1="10262.729728" x2="3030.784576" y2="10238.930176" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3025.984576" y="10226.130176" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.2</text>
+<rect x="3070.112448" y="10208.916288" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3030.784576" y1="10238.930176" x2="3074.912448" y2="10213.716288" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3070.112448" y="10200.916288" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.3</text>
+<rect x="3114.503488" y="10183.76992" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3074.912448" y1="10213.716288" x2="3119.303488" y2="10188.56992" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3114.503488" y="10175.76992" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.4</text>
+<rect x="3159.676544" y="10158.0208" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3119.303488" y1="10188.56992" x2="3164.476544" y2="10162.8208" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3159.676544" y="10150.0208" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.5</text>
+<rect x="3204.885568" y="10130.096576" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3164.476544" y1="10162.8208" x2="3209.685568" y2="10134.896576" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3204.885568" y="10122.096576" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.6</text>
+<rect x="3252.67072" y="10104.22528" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3209.685568" y1="10134.896576" x2="3257.47072" y2="10109.02528" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3252.67072" y="10096.22528" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.7</text>
+<rect x="3300.26176" y="10077.286272" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3257.47072" y1="10109.02528" x2="3305.06176" y2="10082.086272" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3300.26176" y="10069.286272" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.8</text>
+<rect x="3348.822528" y="10049.399936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3305.06176" y1="10082.086272" x2="3353.622528" y2="10054.199936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3348.822528" y="10041.399936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">005.9</text>
+<rect x="3397.231488" y="10021.072448" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3353.622528" y1="10054.199936" x2="3402.031488" y2="10025.872448" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3397.231488" y="10013.072448" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.0</text>
+<rect x="3445.83136" y="9992.130176" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3402.031488" y1="10025.872448" x2="3450.63136" y2="9996.930176" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3445.83136" y="9984.130176" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.1</text>
+<rect x="3496.622336" y="9963.269184" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3450.63136" y1="9996.930176" x2="3501.422336" y2="9968.069184" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3496.622336" y="9955.269184" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.2</text>
+<rect x="3547.268608" y="9931.798848" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3501.422336" y1="9968.069184" x2="3552.068608" y2="9936.598848" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3547.268608" y="9923.798848" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.3</text>
+<rect x="3601.10944" y="9900.576832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3552.068608" y1="9936.598848" x2="3605.90944" y2="9905.376832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3601.10944" y="9892.576832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.4</text>
+<rect x="3654.742208" y="9870.43328" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3605.90944" y1="9905.376832" x2="3659.542208" y2="9875.23328" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3654.742208" y="9862.43328" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.5</text>
+<rect x="3709.809344" y="9838.12832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3659.542208" y1="9875.23328" x2="3714.609344" y2="9842.92832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3709.809344" y="9830.12832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.6</text>
+<rect x="3764.550336" y="9806.493952" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3714.609344" y1="9842.92832" x2="3769.350336" y2="9811.293952" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3764.550336" y="9798.493952" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.7</text>
+<rect x="3819.744448" y="9773.966464" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3769.350336" y1="9811.293952" x2="3824.544448" y2="9778.766464" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3819.744448" y="9765.966464" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.8</text>
+<rect x="3876.960512" y="9741.792896" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3824.544448" y1="9778.766464" x2="3881.760512" y2="9746.592896" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3876.960512" y="9733.792896" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">006.9</text>
+<rect x="3934.158272" y="9709.347584" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3881.760512" y1="9746.592896" x2="3938.958272" y2="9714.147584" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3934.158272" y="9701.347584" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.0</text>
+<rect x="3992.38016" y="9674.995264" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3938.958272" y1="9714.147584" x2="3997.18016" y2="9679.795264" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="3992.38016" y="9666.995264" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.1</text>
+<rect x="4052.453632" y="9640.663104" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="3997.18016" y1="9679.795264" x2="4057.253632" y2="9645.463104" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4052.453632" y="9632.663104" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.2</text>
+<rect x="4113.027904" y="9605.244672" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4057.253632" y1="9645.463104" x2="4117.827904" y2="9610.044672" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4113.027904" y="9597.244672" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.3</text>
+<rect x="4174.282304" y="9569.93216" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4117.827904" y1="9610.044672" x2="4179.082304" y2="9574.73216" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4174.282304" y="9561.93216" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.4</text>
+<rect x="4235.604544" y="9534.292864" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4179.082304" y1="9574.73216" x2="4240.404544" y2="9539.092864" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4235.604544" y="9526.292864" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.5</text>
+<rect x="4297.015424" y="9498.72416" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4240.404544" y1="9539.092864" x2="4301.815424" y2="9503.52416" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4297.015424" y="9490.72416" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.6</text>
+<rect x="4360.633344" y="9463.159936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4301.815424" y1="9503.52416" x2="4365.433344" y2="9467.959936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4360.633344" y="9455.159936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.7</text>
+<rect x="4424.117952" y="9425.547136" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4365.433344" y1="9467.959936" x2="4428.917952" y2="9430.347136" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4424.117952" y="9417.547136" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.8</text>
+<rect x="4488.465856" y="9387.872576" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4428.917952" y1="9430.347136" x2="4493.265856" y2="9392.672576" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4488.465856" y="9379.872576" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">007.9</text>
+<rect x="4554.912384" y="9351.467328" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4493.265856" y1="9392.672576" x2="4559.712384" y2="9356.267328" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4554.912384" y="9343.467328" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.0</text>
+<rect x="4621.561088" y="9312.954624" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4559.712384" y1="9356.267328" x2="4626.361088" y2="9317.754624" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4621.561088" y="9304.954624" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.1</text>
+<rect x="4689.276416" y="9272.928256" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4626.361088" y1="9317.754624" x2="4694.076416" y2="9277.728256" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4689.276416" y="9264.928256" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.2</text>
+<rect x="4759.117248" y="9234.159488" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4694.076416" y1="9277.728256" x2="4763.917248" y2="9238.959488" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4759.117248" y="9226.159488" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.3</text>
+<rect x="4827.070592" y="9194.631872" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4763.917248" y1="9238.959488" x2="4831.870592" y2="9199.431872" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4827.070592" y="9186.631872" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.4</text>
+<rect x="4895.906048" y="9153.81888" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4831.870592" y1="9199.431872" x2="4900.706048" y2="9158.61888" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4895.906048" y="9145.81888" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.5</text>
+<rect x="4968.022528" y="9112.652416" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4900.706048" y1="9158.61888" x2="4972.822528" y2="9117.452416" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="4968.022528" y="9104.652416" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.6</text>
+<rect x="5040.372352" y="9070.815232" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="4972.822528" y1="9117.452416" x2="5045.172352" y2="9075.615232" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5040.372352" y="9062.815232" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.7</text>
+<rect x="5112.063296" y="9029.016896" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5045.172352" y1="9075.615232" x2="5116.863296" y2="9033.816896" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5112.063296" y="9021.016896" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.8</text>
+<rect x="5185.952192" y="8986.946112" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5116.863296" y1="9033.816896" x2="5190.752192" y2="8991.746112" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5185.952192" y="8978.946112" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">008.9</text>
+<rect x="5259.376512" y="8945.012736" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5190.752192" y1="8991.746112" x2="5264.176512" y2="8949.812736" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5259.376512" y="8937.012736" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.0</text>
+<rect x="5333.596736" y="8900.744192" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5264.176512" y1="8949.812736" x2="5338.396736" y2="8905.544192" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5333.596736" y="8892.744192" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.1</text>
+<rect x="5409.80352" y="8856.618688" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5338.396736" y1="8905.544192" x2="5414.60352" y2="8861.418688" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5409.80352" y="8848.618688" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.2</text>
+<rect x="5486.155584" y="8811.554496" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5414.60352" y1="8861.418688" x2="5490.955584" y2="8816.354496" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5486.155584" y="8803.554496" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.3</text>
+<rect x="5563.342592" y="8766.5872" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5490.955584" y1="8816.354496" x2="5568.142592" y2="8771.3872" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5563.342592" y="8758.5872" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.4</text>
+<rect x="5642.645824" y="8721.377472" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5568.142592" y1="8771.3872" x2="5647.445824" y2="8726.177472" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5642.645824" y="8713.377472" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.5</text>
+<rect x="5722.231744" y="8676.193152" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5647.445824" y1="8726.177472" x2="5727.031744" y2="8680.993152" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5722.231744" y="8668.193152" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.6</text>
+<rect x="5802.755648" y="8631.098688" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5727.031744" y1="8680.993152" x2="5807.555648" y2="8635.898688" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5802.755648" y="8623.098688" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.7</text>
+<rect x="5883.307904" y="8583.718336" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5807.555648" y1="8635.898688" x2="5888.107904" y2="8588.518336" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5883.307904" y="8575.718336" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.8</text>
+<rect x="5964.005184" y="8536.530304" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5888.107904" y1="8588.518336" x2="5968.805184" y2="8541.330304" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="5964.005184" y="8528.530304" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">009.9</text>
+<rect x="6046.893376" y="8488.3472" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="5968.805184" y1="8541.330304" x2="6051.693376" y2="8493.1472" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6046.893376" y="8480.3472" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.0</text>
+<rect x="6129.665792" y="8440.322816" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6051.693376" y1="8493.1472" x2="6134.465792" y2="8445.122816" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6129.665792" y="8432.322816" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.1</text>
+<rect x="6213.300096" y="8391.770816" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6134.465792" y1="8445.122816" x2="6218.100096" y2="8396.570816" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6213.300096" y="8383.770816" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.2</text>
+<rect x="6299.027648" y="8343.483456" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6218.100096" y1="8396.570816" x2="6303.827648" y2="8348.283456" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6299.027648" y="8335.483456" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.3</text>
+<rect x="6384.964672" y="8295.188992" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6303.827648" y1="8348.283456" x2="6389.764672" y2="8299.988992" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6384.964672" y="8287.188992" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.4</text>
+<rect x="6471.7376" y="8244.633856" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6389.764672" y1="8299.988992" x2="6476.5376" y2="8249.433856" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6471.7376" y="8236.633856" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.5</text>
+<rect x="6560.859648" y="8194.245632" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6476.5376" y1="8249.433856" x2="6565.659648" y2="8199.045632" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6560.859648" y="8186.245632" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.6</text>
+<rect x="6648.012992" y="8142.808384" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6565.659648" y1="8199.045632" x2="6652.812992" y2="8147.608384" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6648.012992" y="8134.808384" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.7</text>
+<rect x="6735.906048" y="8091.584064" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6652.812992" y1="8147.608384" x2="6740.706048" y2="8096.384064" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6735.906048" y="8083.584064" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.8</text>
+<rect x="6827.222464" y="8039.913408" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6740.706048" y1="8096.384064" x2="6832.022464" y2="8044.713408" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6827.222464" y="8031.913408" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">010.9</text>
+<rect x="6918.772288" y="7986.19392" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6832.022464" y1="8044.713408" x2="6923.572288" y2="7990.99392" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="6918.772288" y="7978.19392" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.0</text>
+<rect x="7009.66336" y="7932.325248" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="6923.572288" y1="7990.99392" x2="7014.46336" y2="7937.125248" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7009.66336" y="7924.325248" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.1</text>
+<rect x="7102.752256" y="7879.725632" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7014.46336" y1="7937.125248" x2="7107.552256" y2="7884.525632" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7102.752256" y="7871.725632" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.2</text>
+<rect x="7195.376768" y="7827.293248" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7107.552256" y1="7884.525632" x2="7200.176768" y2="7832.093248" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7195.376768" y="7819.293248" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.3</text>
+<rect x="7288.796672" y="7773.346944" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7200.176768" y1="7832.093248" x2="7293.596672" y2="7778.146944" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7288.796672" y="7765.346944" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.4</text>
+<rect x="7384.203392" y="7719.613568" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7293.596672" y1="7778.146944" x2="7389.003392" y2="7724.413568" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7384.203392" y="7711.613568" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.5</text>
+<rect x="7479.755648" y="7662.889472" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7389.003392" y1="7724.413568" x2="7484.555648" y2="7667.689472" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7479.755648" y="7654.889472" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.6</text>
+<rect x="7576.1424" y="7606.348416" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7484.555648" y1="7667.689472" x2="7580.9424" y2="7611.148416" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7576.1424" y="7598.348416" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.7</text>
+<rect x="7672.413888" y="7550.609408" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7580.9424" y1="7611.148416" x2="7677.213888" y2="7555.409408" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7672.413888" y="7542.609408" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.8</text>
+<rect x="7771.2" y="7492.752" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7677.213888" y1="7555.409408" x2="7776.0" y2="7497.552" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7771.2" y="7484.752" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">011.9</text>
+<rect x="7869.847936" y="7435.624832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7776.0" y1="7497.552" x2="7874.647936" y2="7440.424832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7869.847936" y="7427.624832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.0</text>
+<rect x="7969.599872" y="7377.448064" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7874.647936" y1="7440.424832" x2="7974.399872" y2="7382.248064" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="7969.599872" y="7369.448064" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.1</text>
+<rect x="8071.344064" y="7319.786944" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="7974.399872" y1="7382.248064" x2="8076.144064" y2="7324.586944" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8071.344064" y="7311.786944" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.2</text>
+<rect x="8173.431936" y="7261.679488" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8076.144064" y1="7324.586944" x2="8178.231936" y2="7266.479488" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8173.431936" y="7253.679488" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.3</text>
+<rect x="8276.47392" y="7201.657536" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8178.231936" y1="7266.479488" x2="8281.27392" y2="7206.457536" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8276.47392" y="7193.657536" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.4</text>
+<rect x="8379.307904" y="7141.486144" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8281.27392" y1="7206.457536" x2="8384.107904" y2="7146.286144" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8379.307904" y="7133.486144" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.5</text>
+<rect x="8482.556416" y="7082.613056" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8384.107904" y1="7146.286144" x2="8487.356416" y2="7087.413056" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8482.556416" y="7074.613056" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.6</text>
+<rect x="8587.693184" y="7021.675584" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8487.356416" y1="7087.413056" x2="8592.493184" y2="7026.475584" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8587.693184" y="7013.675584" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.7</text>
+<rect x="8692.809856" y="6959.192704" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8592.493184" y1="7026.475584" x2="8697.609856" y2="6963.992704" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8692.809856" y="6951.192704" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.8</text>
+<rect x="8798.900224" y="6898.077952" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8697.609856" y1="6963.992704" x2="8803.700224" y2="6902.877952" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8798.900224" y="6890.077952" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">012.9</text>
+<rect x="8907.116032" y="6836.141888" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8803.700224" y1="6902.877952" x2="8911.916032" y2="6840.941888" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="8907.116032" y="6828.141888" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.0</text>
+<rect x="9015.364544" y="6775.079424" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="8911.916032" y1="6840.941888" x2="9020.164544" y2="6779.879424" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9015.364544" y="6767.079424" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.1</text>
+<rect x="9124.618944" y="6711.569152" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9020.164544" y1="6779.879424" x2="9129.418944" y2="6716.369152" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9124.618944" y="6703.569152" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.2</text>
+<rect x="9233.827904" y="6648.55008" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9129.418944" y1="6716.369152" x2="9238.627904" y2="6653.35008" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9233.827904" y="6640.55008" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.3</text>
+<rect x="9345.470528" y="6584.263936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9238.627904" y1="6653.35008" x2="9350.270528" y2="6589.063936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9345.470528" y="6576.263936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.4</text>
+<rect x="9457.061824" y="6520.178048" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9350.270528" y1="6589.063936" x2="9461.861824" y2="6524.978048" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9457.061824" y="6512.178048" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.5</text>
+<rect x="9569.621888" y="6455.763456" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9461.861824" y1="6524.978048" x2="9574.421888" y2="6460.563456" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9569.621888" y="6447.763456" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.6</text>
+<rect x="9684.263488" y="6389.101824" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9574.421888" y1="6460.563456" x2="9689.063488" y2="6393.901824" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9684.263488" y="6381.101824" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.7</text>
+<rect x="9799.095488" y="6324.950464" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9689.063488" y1="6393.901824" x2="9803.895488" y2="6329.750464" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9799.095488" y="6316.950464" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.8</text>
+<rect x="9914.962688" y="6259.551104" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9803.895488" y1="6329.750464" x2="9919.762688" y2="6264.351104" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="9914.962688" y="6251.551104" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">013.9</text>
+<rect x="10030.684352" y="6193.260032" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="9919.762688" y1="6264.351104" x2="10035.484352" y2="6198.060032" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10030.684352" y="6185.260032" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.0</text>
+<rect x="10146.678528" y="6126.513472" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10035.484352" y1="6198.060032" x2="10151.478528" y2="6131.313472" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10146.678528" y="6118.513472" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.1</text>
+<rect x="10262.46464" y="6059.31424" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10151.478528" y1="6131.313472" x2="10267.26464" y2="6064.11424" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10262.46464" y="6051.31424" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.2</text>
+<rect x="10380.46272" y="5989.789824" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10267.26464" y1="6064.11424" x2="10385.26272" y2="5994.589824" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10380.46272" y="5981.789824" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.3</text>
+<rect x="10500.366016" y="5920.016384" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10385.26272" y1="5994.589824" x2="10505.166016" y2="5924.816384" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10500.366016" y="5912.016384" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.4</text>
+<rect x="10619.007616" y="5851.477312" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10505.166016" y1="5924.816384" x2="10623.807616" y2="5856.277312" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10619.007616" y="5843.477312" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.5</text>
+<rect x="10738.515456" y="5780.72736" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10623.807616" y1="5856.277312" x2="10743.315456" y2="5785.52736" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10738.515456" y="5772.72736" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.6</text>
+<rect x="10859.493952" y="5710.800128" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10743.315456" y1="5785.52736" x2="10864.293952" y2="5715.600128" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10859.493952" y="5702.800128" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.7</text>
+<rect x="10983.036928" y="5639.635072" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10864.293952" y1="5715.600128" x2="10987.836928" y2="5644.435072" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="10983.036928" y="5631.635072" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.8</text>
+<rect x="11107.094528" y="5566.942208" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="10987.836928" y1="5644.435072" x2="11111.894528" y2="5571.742208" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11107.094528" y="5558.942208" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">014.9</text>
+<rect x="11230.117952" y="5496.064768" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11111.894528" y1="5571.742208" x2="11234.917952" y2="5500.864768" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11230.117952" y="5488.064768" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.0</text>
+<rect x="11355.472448" y="5424.398272" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11234.917952" y1="5500.864768" x2="11360.272448" y2="5429.198272" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11355.472448" y="5416.398272" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.1</text>
+<rect x="11482.261504" y="5351.496896" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11360.272448" y1="5429.198272" x2="11487.061504" y2="5356.296896" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11482.261504" y="5343.496896" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.2</text>
+<rect x="11607.827904" y="5278.283008" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11487.061504" y1="5356.296896" x2="11612.627904" y2="5283.083008" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11607.827904" y="5270.283008" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.3</text>
+<rect x="11734.023232" y="5204.631616" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11612.627904" y1="5283.083008" x2="11738.823232" y2="5209.431616" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11734.023232" y="5196.631616" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.4</text>
+<rect x="11861.682432" y="5130.882624" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11738.823232" y1="5209.431616" x2="11866.482432" y2="5135.682624" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11861.682432" y="5122.882624" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.5</text>
+<rect x="11991.601344" y="5057.055936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11866.482432" y1="5135.682624" x2="11996.401344" y2="5061.855936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="11991.601344" y="5049.055936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.6</text>
+<rect x="12122.216576" y="4983.184832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="11996.401344" y1="5061.855936" x2="12127.016576" y2="4987.984832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12122.216576" y="4975.184832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.7</text>
+<rect x="12253.756672" y="4907.171648" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12127.016576" y1="4987.984832" x2="12258.556672" y2="4911.971648" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12253.756672" y="4899.171648" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.8</text>
+<rect x="12385.410944" y="4831.28544" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12258.556672" y1="4911.971648" x2="12390.210944" y2="4836.08544" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12385.410944" y="4823.28544" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">015.9</text>
+<rect x="12517.285952" y="4754.24832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12390.210944" y1="4836.08544" x2="12522.085952" y2="4759.04832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12517.285952" y="4746.24832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.0</text>
+<rect x="12651.328896" y="4677.305984" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12522.085952" y1="4759.04832" x2="12656.128896" y2="4682.105984" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12651.328896" y="4669.305984" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.1</text>
+<rect x="12785.296704" y="4600.035456" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12656.128896" y1="4682.105984" x2="12790.096704" y2="4604.835456" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12785.296704" y="4592.035456" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.2</text>
+<rect x="12920.2576" y="4520.564736" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12790.096704" y1="4604.835456" x2="12925.0576" y2="4525.364736" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="12920.2576" y="4512.564736" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.3</text>
+<rect x="13055.096512" y="4443.327936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="12925.0576" y1="4525.364736" x2="13059.896512" y2="4448.127936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13055.096512" y="4435.327936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.4</text>
+<rect x="13192.328896" y="4365.184384" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13059.896512" y1="4448.127936" x2="13197.128896" y2="4369.984384" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13192.328896" y="4357.184384" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.5</text>
+<rect x="13329.322048" y="4285.996416" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13197.128896" y1="4369.984384" x2="13334.122048" y2="4290.796416" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13329.322048" y="4277.996416" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.6</text>
+<rect x="13467.44416" y="4206.362112" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13334.122048" y1="4290.796416" x2="13472.24416" y2="4211.162112" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13467.44416" y="4198.362112" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.7</text>
+<rect x="13607.669696" y="4126.337664" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13472.24416" y1="4211.162112" x2="13612.469696" y2="4131.137664" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13607.669696" y="4118.337664" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.8</text>
+<rect x="13745.855296" y="4046.164352" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13612.469696" y1="4131.137664" x2="13750.655296" y2="4050.964352" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13745.855296" y="4038.164352" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">016.9</text>
+<rect x="13887.155072" y="3965.876736" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13750.655296" y1="4050.964352" x2="13891.955072" y2="3970.676736" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="13887.155072" y="3957.876736" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.0</text>
+<rect x="14029.458816" y="3883.524224" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="13891.955072" y1="3970.676736" x2="14034.258816" y2="3888.324224" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14029.458816" y="3875.524224" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.1</text>
+<rect x="14171.1072" y="3800.969024" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14034.258816" y1="3888.324224" x2="14175.9072" y2="3805.769024" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14171.1072" y="3792.969024" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.2</text>
+<rect x="14313.015424" y="3717.550592" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14175.9072" y1="3805.769024" x2="14317.815424" y2="3722.350592" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14313.015424" y="3709.550592" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.3</text>
+<rect x="14456.532032" y="3634.113088" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14317.815424" y1="3722.350592" x2="14461.332032" y2="3638.913088" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14456.532032" y="3626.113088" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.4</text>
+<rect x="14602.474432" y="3550.47392" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14461.332032" y1="3638.913088" x2="14607.274432" y2="3555.27392" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14602.474432" y="3542.47392" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.5</text>
+<rect x="14749.090624" y="3466.80352" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14607.274432" y1="3555.27392" x2="14753.890624" y2="3471.60352" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14749.090624" y="3458.80352" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.6</text>
+<rect x="14894.514432" y="3383.23904" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14753.890624" y1="3471.60352" x2="14899.314432" y2="3388.03904" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="14894.514432" y="3375.23904" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.7</text>
+<rect x="15042.168768" y="3297.37088" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="14899.314432" y1="3388.03904" x2="15046.968768" y2="3302.17088" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15042.168768" y="3289.37088" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.8</text>
+<rect x="15191.357248" y="3211.696064" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15046.968768" y1="3302.17088" x2="15196.157248" y2="3216.496064" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15191.357248" y="3203.696064" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">017.9</text>
+<rect x="15339.168768" y="3125.032" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15196.157248" y1="3216.496064" x2="15343.968768" y2="3129.832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15339.168768" y="3117.032" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.0</text>
+<rect x="15489.994944" y="3038.51936" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15343.968768" y1="3129.832" x2="15494.794944" y2="3043.31936" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15489.994944" y="3030.51936" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.1</text>
+<rect x="15639.87968" y="2951.70976" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15494.794944" y1="3043.31936" x2="15644.67968" y2="2956.50976" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15639.87968" y="2943.70976" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.2</text>
+<rect x="15791.042752" y="2864.941184" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15644.67968" y1="2956.50976" x2="15795.842752" y2="2869.741184" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15791.042752" y="2856.941184" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.3</text>
+<rect x="15943.889472" y="2776.014464" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15795.842752" y1="2869.741184" x2="15948.689472" y2="2780.814464" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="15943.889472" y="2768.014464" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.4</text>
+<rect x="16097.138496" y="2687.201984" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="15948.689472" y1="2780.814464" x2="16101.938496" y2="2692.001984" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="16097.138496" y="2679.201984" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.5</text>
+<rect x="16251.253696" y="2599.569152" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="16101.938496" y1="2692.001984" x2="16256.053696" y2="2604.369152" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="16251.253696" y="2591.569152" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.6</text>
+<rect x="16405.150208" y="2509.732224" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="16256.053696" y1="2604.369152" x2="16409.950208" y2="2514.532224" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="16405.150208" y="2501.732224" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.7</text>
+<rect x="16561.736128" y="2420.798656" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="16409.950208" y1="2514.532224" x2="16566.536128" y2="2425.598656" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="16561.736128" y="2412.798656" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.8</text>
+<rect x="16717.929472" y="2330.72832" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="16566.536128" y1="2425.598656" x2="16722.729472" y2="2335.52832" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="16717.929472" y="2322.72832" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">018.9</text>
+<rect x="16875.289856" y="2238.987136" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="16722.729472" y1="2335.52832" x2="16880.089856" y2="2243.787136" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="16875.289856" y="2230.987136" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.0</text>
+<rect x="17032.4832" y="2146.718528" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="16880.089856" y1="2243.787136" x2="17037.2832" y2="2151.518528" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17032.4832" y="2138.718528" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.1</text>
+<rect x="17189.883584" y="2055.893376" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="17037.2832" y1="2151.518528" x2="17194.683584" y2="2060.693376" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17189.883584" y="2047.893376" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.2</text>
+<rect x="17349.307392" y="1962.828928" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="17194.683584" y1="2060.693376" x2="17354.107392" y2="1967.628928" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17349.307392" y="1954.828928" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.3</text>
+<rect x="17510.985152" y="1870.528128" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="17354.107392" y1="1967.628928" x2="17515.785152" y2="1875.328128" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17510.985152" y="1862.528128" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.4</text>
+<rect x="17673.680448" y="1777.319168" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="17515.785152" y1="1875.328128" x2="17678.480448" y2="1782.119168" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17673.680448" y="1769.319168" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.5</text>
+<rect x="17834.957824" y="1682.164864" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="17678.480448" y1="1782.119168" x2="17839.757824" y2="1686.964864" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17834.957824" y="1674.164864" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.6</text>
+<rect x="17998.742976" y="1589.070144" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="17839.757824" y1="1686.964864" x2="18003.542976" y2="1593.870144" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="17998.742976" y="1581.070144" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.7</text>
+<rect x="18163.825024" y="1494.86112" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="18003.542976" y1="1593.870144" x2="18168.625024" y2="1499.66112" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="18163.825024" y="1486.86112" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.8</text>
+<rect x="18327.961728" y="1399.673664" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="18168.625024" y1="1499.66112" x2="18332.761728" y2="1404.473664" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="18327.961728" y="1391.673664" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">019.9</text>
+<rect x="18492.44416" y="1304.059392" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="18332.761728" y1="1404.473664" x2="18497.24416" y2="1308.859392" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="18492.44416" y="1296.059392" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">020.0</text>
+<rect x="18658.442176" y="1208.034944" width="9.6" height="9.6" style=" fill:rgb(0,200,200);" />
+<line x1="18497.24416" y1="1308.859392" x2="18663.242176" y2="1212.834944" style=" stroke:rgb(0,200,200); stroke-width:3.2" />
+<text x="18658.442176" y="1200.034944" style=" fill:rgb(127,230,230); stroke: none; font-size: 16.0px;">020.1</text>
+</svg>

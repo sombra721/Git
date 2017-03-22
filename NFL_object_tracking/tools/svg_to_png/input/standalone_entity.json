@@ -1,0 +1,65 @@
+{
+   "entities": [
+      {
+           "group": "P5", "name": "01_line",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2011",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2012",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2001
+      }, 
+      {
+           "group": "P5", "name": "02_lineMP",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2021",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2022",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2002
+      }, 
+      {
+           "group": "P5", "name": "03_diagonal",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2031",   "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2032",   "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2003
+      }, 
+      {
+           "group": "P5", "name": "04_acceleration",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2041",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2042",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2004
+      }, 
+      {
+           "group": "P5", "name": "05_circle",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2051",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2052",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2005
+      }, 
+      {
+           "group": "P5", "name": "06_polynomial",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2061",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2062",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2006
+      }, 
+      {
+           "group": "P5", "name": "07_actual",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2071",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2072",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2007
+      },
+      {
+           "group": "P5", "name": "08_lineRnd05",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2081",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2082",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2008
+      },
+      {
+           "group": "P5", "name": "09_lineMPlarge",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2091",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2092",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2009
+      },
+      {
+           "group": "P5", "name": "10_lineMPoffset",  "tags": [
+            {"offset": [0.0,  0.6, 0.0], "id": "2101",  "name": "harness_left"}, 
+            {"offset": [0.0, -0.6, 0.0], "id": "2102",  "name": "harness_right"}
+         ], "model": "worker", "type": "worker",  "id": 2010
+      }	  
+   ]
+}
+
