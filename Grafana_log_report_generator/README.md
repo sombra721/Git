@@ -1,5 +1,5 @@
 commands to build the docker image:
-    sudo docker build -t michael/grafana_performance .
+<br />    sudo docker build -t michael/grafana_performance .
 
 after building the docker image, check the image ID:
     docker images
