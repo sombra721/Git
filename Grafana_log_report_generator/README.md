@@ -1,7 +1,7 @@
 Commands to build the docker image:<p>
 ==============
 
-*sudo docker build -t michael/grafana_performance . *
+sudo docker build -t michael/grafana_performance .
 
 after building the docker image, check the image ID:<p>
 ==============
