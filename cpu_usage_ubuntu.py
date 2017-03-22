@@ -1,10 +1,9 @@
 #!/usr/bin/python 
 # -*- coding: utf-8 -*-
-
+__author__ = "Michael Tsai"
 '''
 Created on 06.22.2016
-
-@author: Michael Tsai
+This script gathers the usage info of each CPU core then record the data into a csv file.
 '''
 from time import sleep
 import sys
