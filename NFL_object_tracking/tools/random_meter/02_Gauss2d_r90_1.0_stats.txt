@@ -1,0 +1,8 @@
+Statistics:
+Count = 1000
+R min = 0.000
+R max = 1.824
+X Std Dev [ft] = 0.437
+Y Std Dev [ft] = 0.426
+R Std Dev [ft] = 0.363
+r90 [ft] = 1.000

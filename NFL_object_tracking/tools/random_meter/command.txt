@@ -1,0 +1,2 @@
+python random_meter_xy.py -i 02_Gauss2d_r90_1.0_ft.txt -o 02_Gauss2d_r90_1.0_stats.txt -s 02_Gauss2d_r90_1.0_svg.html
+
