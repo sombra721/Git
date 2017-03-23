@@ -88,65 +88,6 @@ class grafana_ret(object):
 
 def plotting(time_stamp, grafana_value, filename, title, y_label, debug="n"):
     filename = dir_name+"/"+filename
-    print "filename in plotting: ", filename
-    image_files.append(filename)
-    if time_stamp == []:
-        return
-    if not os.path.exists(dir_name):
-        os.makedirs(dir_name)
-    start_time = datetime.datetime.fromtimestamp(int(time_stamp[0])).strftime('%c')
-    end_time = datetime.datetime.fromtimestamp(int(time_stamp[-1])).strftime('%c')
-    
-    max_usage = max([float(i) for i in grafana_value])
-    secs = mdate.epoch2num(time_stamp)
-
-    if debug == "y":
-        print "==============================="
-        print "start time: ", start_time
-        print "end time: ", end_time
-        print "secs:\n", secs
-        print "grafana:\n", grafana_value
-        print "max_usage:  ", max_usage
-        print "==============================="
-    fig, ax = plt.subplots()
-    
-    avg = [sum([float(x) for x in grafana_value], 0.0) / len(grafana_value)]*len(grafana_value)
-    
-    if (len(secs)/10) > 0:
-        ax.set_xticks([secs[x] for x in range(len(secs)) if x % (len(secs)/10) == 0 ])
-    else:
-        ax.set_xticks(secs)
-
-    # Plot the date using plot_date rather than plot
-    aaa = ax.plot_date(secs, grafana_value, ls="-", label="usage", marker=".", color="g")
-    aaa = ax.plot_date(secs, avg, ls="--", label="avg", marker="", color="r")
-    # Choose your xtick format string
-    date_fmt = '%m-%d-%y %H:%M:%S'
-    
-    # Use a DateFormatter to set the data to the correct format.
-    date_formatter = mdate.DateFormatter(date_fmt)
-    ax.xaxis.set_major_formatter(date_formatter)
-    #plt.axis([grafana_value[-1], grafana_value[0], secs[-1], secs[0]])
-    
-    legend = ax.legend(loc='upper right')
-   
-    fig.autofmt_xdate()
-    average = str("%.3f" % (sum([float(x) for x in grafana_value], 0.0) / len(grafana_value)))    
-
-    #plt.plot(time_stamp, grafana_value)
-    plt.setp(aaa, color='r', linewidth=2.0)
-    plt.xlabel('datetime (UTC)')
-    plt.ylabel(y_label)
-    plt.title(title+": "+average+"\nmax rate: "+str(max_usage)+"\nfrom "+start_time+"\nto "+end_time)
-    plt.grid(True)
-    fig.set_size_inches(12, 8)
-    plt.savefig(filename)
-    plt.cla()
-    plt.close(fig)
-    return max_usage, average
-
-def plotting(time_stamp, grafana_value, filename, title, y_label, debug="n"):
-    filename = dir_name+"/"+filename
     image_files.append(filename)
     if time_stamp == []:
         return
